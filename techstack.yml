@@ -2,7 +2,7 @@ repo_name: BenHerbst/python-feedgen
 report_id: a5850f7c9f8a67982c750082b12427b8
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:50:33+00:00'
+timestamp: '2024-01-05T08:20:57+00:00'
 requested_by: lkiesow
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/BenHerbst/python-feedgen
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/BenHerbst/python-feedgen/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Lars Kiesow
   last_updated_on: 2019-08-11 20:55:27.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/python-feedgen
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -46,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/BenHerbst/python-feedgen/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Lars Kiesow
   last_updated_on: 2013-05-04 20:34:41.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/BenHerbst/python-feedgen/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: snipem
   last_updated_on: 2014-06-01 11:39:37.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/BenHerbst/python-feedgen/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Lars Kiesow
   last_updated_on: 2019-08-11 20:55:27.000000000 Z
@@ -121,6 +127,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/BenHerbst/python-feedgen/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Lars Kiesow
   last_updated_on: 2019-08-11 20:45:27.000000000 Z
